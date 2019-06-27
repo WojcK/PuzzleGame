@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PuzzleGame</string>
+    <string name="play_button" translatable="false">play_button</string>
+    <string name="play">Play</string>
+    <string name="settings">Settings</string>
+    <string name="columns">Columns</string>
+    <string name="rows">Rows</string>
+    <string name="alpha">Alpha</string>
+    <string name="warning"> You should not chose too many Rows and Columns, alpha between 0 and 1! It will divide image into smaller pieces!</string>
+</resources>
